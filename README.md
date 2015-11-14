@@ -14,10 +14,12 @@ A collection of useful experiment code of HIT.
 ## CPU Design
 
 + [DeathKing/CPME48](https://github.com/DeathKing/CPME48)
++ [dontpanic92/8BitSimpleCPU](https://github.com/dontpanic92/8BitSimpleCPU)
 
 ## Compiler
 
 + [pokerG/Compiler](https://github.com/pokerG/Compiler)
++ [dontpanic92/dparse](https://github.com/dontpanic92/dparse)
 
 ## Network
 
